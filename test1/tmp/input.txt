@@ -1,0 +1,20 @@
+doc1.txt	Python is a programming language widely used in data science, web development, machine learning, automation, and distributed systems. Python supports MapReduce, Hadoop streaming, and big data analytics pipelines.
+doc2.txt	Hadoop MapReduce is a distributed processing framework designed for large scale data processing. Hadoop stores files in HDFS and executes jobs across clusters of machines in parallel.
+doc3.txt	AWS EMR runs Hadoop and Spark clusters in the cloud. Python works well with EMR, allowing engineers to automate ETL jobs, data ingestion, and machine learning tasks.
+doc4.txt	Un índice invertido es una estructura de datos utilizada en motores de búsqueda. Relaciona palabras clave con documentos donde aparecen. Sistemas como Elasticsearch, Lucene y Solr utilizan índices invertidos para búsquedas rápidas.
+doc5.txt	Big data processing with Python, Hadoop, and Spark on AWS EMR clusters is common in enterprise environments. Spark improves iterative computation performance over traditional MapReduce workloads.
+doc6.txt	Apache Spark is a distributed analytics engine optimized for speed and scalability. Spark supports SQL queries, machine learning libraries, graph processing, and real time streaming applications.
+doc7.txt	Elasticsearch is a search engine based on Apache Lucene. It provides full text search, indexing, distributed storage, and REST APIs for scalable search systems.
+doc8.txt	Machine learning pipelines often combine Python, Spark, and cloud services. Engineers train models using distributed datasets stored in Hadoop clusters or S3.
+doc9.txt	Los motores de búsqueda modernos utilizan técnicas de tokenización, stemming, ranking y recuperación de información para encontrar documentos relevantes.
+doc10.txt	AWS provides services such as EC2, S3, Lambda, DynamoDB, and EMR for scalable cloud computing. Many big data architectures rely on these services.
+doc11.txt	Data engineers process terabytes of information daily. ETL pipelines extract, transform, and load information into distributed databases and data warehouses.
+doc12.txt	Spark Streaming enables real time analytics on continuous streams of data. Applications include fraud detection, monitoring systems, and IoT platforms.
+doc13.txt	Information retrieval systems use ranking algorithms such as TF-IDF and BM25 to determine document relevance in search results.
+doc14.txt	Hadoop Distributed File System or HDFS stores large datasets across many nodes. Replication improves fault tolerance and reliability in distributed environments.
+doc15.txt	Python libraries like pandas, numpy, scikit-learn, and pyspark are popular tools in data science and big data ecosystems.
+doc16.txt	Un sistema de recuperación de información puede indexar millones de documentos utilizando estructuras eficientes como tablas hash y árboles B.
+doc17.txt	Cloud computing platforms allow organizations to dynamically scale resources. AWS EMR simplifies cluster management for Hadoop and Spark applications.
+doc18.txt	Search engines crawl web pages, extract content, and create indexes that allow users to quickly retrieve relevant information from billions of documents.
+doc19.txt	Apache Lucene is a high performance text search library written in Java. It powers search technologies such as Solr and Elasticsearch.
+doc20.txt	Big data systems must handle scalability, consistency, availability, and fault tolerance. Distributed computing frameworks solve these challenges efficiently.
